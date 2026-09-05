@@ -39,6 +39,7 @@ Thumbs.db
 *~
 .idea/
 .vscode/
+pyrefly.toml
 *.log
 
 data/
@@ -56,6 +57,7 @@ mlruns/
 
 .link-cache.json
 .claude/
+.agent/
 
 # Keep local Claude settings ignored, but publish the portable tutor mirrors
 # and their runtime references so a fresh clone can discover them.
